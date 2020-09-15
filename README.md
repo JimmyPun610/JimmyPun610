@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋. I am Jimmy Pun from Hong Kong
+I am a full stack developer and proficient in .Net development on web API (.NET Core), mobile application (Xamarin Forms), website (Angular) and Windows application (WPF).
 
 <!--
 **JimmyPun610/JimmyPun610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
