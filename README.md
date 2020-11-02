@@ -14,7 +14,7 @@ I am a full stack developer proficient in .Net development on web API (C# .NET C
   - Frontend Web : Angular 2+, HTML5, CSS, Javascript, JQuery, Asp Webform
   - Frontend Mobile : Xamarin Forms, Java for Android, Objective C for iOS
   - Frontend Windows : WPF
-  - Backend : .Net Core, .Net Framework 4.5+
+  - Backend : .Net Core 3.1, .Net Framework 4.5+
   - Database : SQL Server, MongoDb, RavenDb, MySQL, OracleDB
   - Others : Microsoft AppCenter, Git, Azure App Service, Azure DevOps, Oracle Cloud
 
