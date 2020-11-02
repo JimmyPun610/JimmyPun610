@@ -15,7 +15,7 @@ I am a full stack developer proficient in .Net development on web API (C# .NET C
   - Frontend Mobile : Xamarin Forms, Java for Android, Objective C for iOS
   - Frontend Windows : WPF
   - Backend : .Net Core 3.1, .Net Framework 4.5+
-  - Database : SQL Server, MongoDb, RavenDb, MySQL, OracleDB
+  - Database : SQL Server, MongoDb, RavenDb, SQL, MySQL, OracleDB
   - Others : Microsoft AppCenter, Git, Azure App Service, Azure DevOps, Oracle Cloud
 
 - 📫 How to reach me: Email to 11005408@life.hkbu.edu.hk, I can speak English and Cantonese
