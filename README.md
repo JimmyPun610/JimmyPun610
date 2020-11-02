@@ -1,5 +1,5 @@
 #### Hi there 👋. I am Jimmy Pun from Hong Kong
-I am a full stack developer proficient in .Net development on web API (.NET Core), mobile application (Xamarin Forms), web application (Angular) and Windows application (WPF).
+I am a full stack developer proficient in .Net development on web API (C# .NET Core), mobile application (Xamarin Forms), web application (Angular 2+) and Windows application (WPF).
 
 - 🔭 I’m currently working on .NET projects which include Xamarin Forms, .NET Core and some web applications
 
@@ -9,7 +9,15 @@ I am a full stack developer proficient in .Net development on web API (.NET Core
   - [Plugin.XF.Controls - Snackbar is useful and some other control you may need sometimes](https://github.com/JimmyPun610/Plugin.XF.Controls)
   - [Plugin.XF.TouchID - Biometric authentication library for Xamarin Forms](https://github.com/JimmyPun610/Plugin.XF.TouchID)
   - [Plugin.XF.AppInstallHelper - If your App is out of AppStore/Google Play, you may want this](https://github.com/JimmyPun610/Plugin.XF.AppInstallHelper)
-  
+
+- 🌱 My skillsets are 
+  - Frontend Web : Angular 2+, HTML5, CSS, Javascript, JQuery, Asp Webform
+  - Frontend Mobile : Xamarin Forms, Java for Android, Objective C for iOS
+  - Frontend Windows : WPF
+  - Backend : .Net Core, .Net Framework 4.5+
+  - Database : SQL Server, MongoDb, RavenDb, MySQL, OracleDB
+  - Others : Microsoft AppCenter, Git, Azure App Service, Azure DevOps, Oracle Cloud
+
 - 📫 How to reach me: Email to 11005408@life.hkbu.edu.hk, I can speak English and Cantonese
 <!--
 **JimmyPun610/JimmyPun610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
