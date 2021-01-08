@@ -1,7 +1,7 @@
 #### Hi there 👋. I am Jimmy Pun from Hong Kong
 I am a full stack developer proficient in .Net development on web API (C# .NET Core), mobile application (Xamarin Forms), web application (Angular 2+) and Windows application (WPF).
 
-- 🔭 I’m currently working on .NET projects which include Xamarin Forms, .NET Core and some web applications
+- 🔭 I’m currently working on .NET projects which include Xamarin Forms, .NET Core and some web applications with Angular
 
 - 🤔 Here are some libraries which is useful in Xamarin Forms development.
   - [BarcodeScanner.XF - An alternative of Zxing Mobile which use Google Vision](https://github.com/JimmyPun610/BarcodeScanner.XF)
@@ -16,7 +16,7 @@ I am a full stack developer proficient in .Net development on web API (C# .NET C
   - Frontend Windows : WPF
   - Backend : .Net Core 3.1, .Net Framework 4.5+
   - Database : SQL Server, MongoDb, RavenDb, SQLite, MySQL, OracleDB
-  - Others : Microsoft AppCenter, Git, Azure App Service, Azure DevOps, Oracle Cloud
+  - Others : Microsoft AppCenter, Git, Firebase, Azure App Service, Azure DevOps, Oracle Cloud
 
 - 📫 How to reach me: Email to 11005408@life.hkbu.edu.hk, I can speak English and Cantonese
 <!--
