@@ -11,7 +11,7 @@ I am a full stack developer proficient in .Net development on web API (C# .NET C
   - [Plugin.XF.AppInstallHelper - If your App is out of AppStore/Google Play, you may want this](https://github.com/JimmyPun610/Plugin.XF.AppInstallHelper)
 
 - 🌱 My skillsets are 
-  - Frontend Web : Angular 2+, HTML5, CSS, Javascript, JQuery, Asp Webform
+  - Frontend Web : Angular 2+, HTML5, CSS, Javascript, JQuery, Asp Webform / Razor
   - Frontend Mobile : Xamarin Forms, Java for Android, Objective C for iOS
   - Frontend Windows : WPF
   - Backend : .Net Core 3.1, .Net Framework 4.5+
