@@ -19,7 +19,7 @@ I am a full stack developer proficient in .Net development on web API (C# .NET C
   - Others : Microsoft AppCenter, Git, Firebase, Azure App Service, Azure DevOps, Oracle Cloud
 
 - 📫 How to reach me: Email to 11005408@life.hkbu.edu.hk, I can speak English and Cantonese
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyPun610)](https://github.com/JimmyPun610)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyPun610)](https://github.com/JimmyPun610)-->
 [![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimmyPun610)](https://github.com/JimmyPun610)
 <!--
 **JimmyPun610/JimmyPun610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
