@@ -4,7 +4,7 @@ I am a full stack developer proficient in .Net development on web API (C# .NET C
 - 🔭 I’m currently working on .NET projects which include Xamarin Forms, .NET Core and some web applications with Angular
 
 - 🤔 Here are some libraries which is useful in Xamarin Forms development.
-  - [BarcodeScanner.XF - An alternative of Zxing Mobile which use Google Vision](https://github.com/JimmyPun610/BarcodeScanner.XF)
+  - [BarcodeScanner.Mobile - An alternative of Zxing Mobile which use Google Vision](https://github.com/JimmyPun610/BarcodeScanner.Mobile)
   - [Plugin.XF.MultiLanguage - Library for dynamic change App language in Runtime](https://github.com/JimmyPun610/Plugin.XF.MultiLanguage)
   - [Plugin.XF.Controls - Snackbar is useful and some other control you may need sometimes](https://github.com/JimmyPun610/Plugin.XF.Controls)
   - [Plugin.XF.TouchID - Biometric authentication library for Xamarin Forms](https://github.com/JimmyPun610/Plugin.XF.TouchID)
