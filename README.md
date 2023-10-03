@@ -1,4 +1,4 @@
-#### Hi there 👋. I am Jimmy Pun from Hong Kong
+#### Hi there 👋. I am Jimmy Pun from Hong Kong / Australia
 I am a full stack developer proficient in .Net development on web API (C# .NET Core), mobile application (Xamarin Forms), web application (Angular 2+) and Windows application (WPF).
 
 - 🔭 I’m currently working on .NET projects which include Xamarin Forms, .NET Core and some web applications with Angular
@@ -14,9 +14,9 @@ I am a full stack developer proficient in .Net development on web API (C# .NET C
   - Frontend Web : Angular 2+, HTML5, CSS, Javascript, JQuery, Asp Webform / Razor
   - Frontend Mobile : Xamarin Forms, Java for Android, Objective C for iOS
   - Frontend Windows : WPF
-  - Backend : .Net Core 3.1, .Net Framework 4.5+
+  - Backend : .NET 6, .Net Core 3.1, .Net Framework 4.5+
   - Database : SQL Server, MongoDb, RavenDb, SQLite, MySQL, OracleDB
-  - Others : Microsoft AppCenter, Git, Firebase, Azure App Service, Azure DevOps, Oracle Cloud
+  - Others : Microsoft AppCenter, Git, Firebase, Azure App Service, Azure DevOps, Kubernetes, Docker, CI/CD
 
 - 📫 How to reach me: Email to 11005408@life.hkbu.edu.hk, I can speak English and Cantonese
 
