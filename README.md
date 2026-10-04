@@ -1,7 +1,7 @@
-#### Hi there 👋. I am Jimmy Pun from Hong Kong / Australia
-I am a full stack developer proficient in .Net development on web API (C# .NET Core), mobile application (Xamarin Forms), web application (Angular 2+) and Windows application (WPF).
+#### Hi there 👋. I am Jimmy Pun based in Melbourne now.
+I am a full stack developer proficient in .Net development on web API (C# .NET Core), mobile application (MAUI), web application (Angular 2+) and Windows application (WPF).
 
-- 🔭 I’m currently working on .NET projects which include Xamarin Forms, .NET Core and some web applications with Angular
+- 🔭 I’m currently working on .NET projects which include MAUI, .NET Core and some web applications with Angular
 
 - 🤔 Here are some libraries which is useful in Xamarin Forms development.
   - [BarcodeScanner.Mobile - An alternative of Zxing Mobile which use Google Vision](https://github.com/JimmyPun610/BarcodeScanner.Mobile)
@@ -10,13 +10,13 @@ I am a full stack developer proficient in .Net development on web API (C# .NET C
   - [Plugin.XF.TouchID - Biometric authentication library for Xamarin Forms](https://github.com/JimmyPun610/Plugin.XF.TouchID)
   - [Plugin.XF.AppInstallHelper - If your App is out of AppStore/Google Play, you may want this](https://github.com/JimmyPun610/Plugin.XF.AppInstallHelper)
 
-- 🌱 My skillsets are 
-  - Frontend Web : Angular 2+, HTML5, CSS, Javascript, JQuery, Asp Webform / Razor
-  - Frontend Mobile : Xamarin Forms, Java for Android, Objective C for iOS
+- 🌱 My key skillsets are 
+  - Frontend Web : Angular, HTML5, CSS, Javascript, Blazor
+  - Frontend Mobile : MAUI
   - Frontend Windows : WPF
-  - Backend : .NET 6, .Net Core 3.1, .Net Framework 4.5+
+  - Backend : .NET 10
   - Database : SQL Server, MongoDb, RavenDb, SQLite, MySQL, OracleDB
-  - Others : Microsoft AppCenter, Git, Firebase, Azure App Service, Azure DevOps, Kubernetes, Docker, CI/CD
+  - Others : Microsoft AppCenter, Git, Firebase, CI/CD, Azure App Service, Azure DevOps, Docker
 
 - 📫 How to reach me: Email to 11005408@life.hkbu.edu.hk, I can speak English and Cantonese
 
